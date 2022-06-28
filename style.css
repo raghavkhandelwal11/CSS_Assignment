@@ -6,6 +6,10 @@
     background-color: yellow;
 }
 
+.strike {
+    text-decoration: line-through;
+}
+
 ul {
     
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
